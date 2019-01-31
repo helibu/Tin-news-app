@@ -8,15 +8,15 @@ MVP structured Tinder-like news-app. Newsapi is used as source of news. Room is 
 ## Some features
 
 ### Three Container Fragment
-![](https://github.com/helibu/Tin-news-app/blob/master/gifs/threeContainerFragment.gif)
+![](https://github.com/helibu/Tin-news-app/blob/master/gifs/threeContainerFragment.gif?style=centerme)
 
 ### TinGallery Fragment
-![](https://github.com/helibu/Tin-news-app/blob/master/gifs/tinGallery.gif)
+![](https://github.com/helibu/Tin-news-app/blob/master/gifs/tinGallery.gif?style=centerme)
 
 ### SavedNews Fragment
 Recycler View is used.
 
-![](https://github.com/helibu/Tin-news-app/blob/master/gifs/savedNews.gif)
+![](https://github.com/helibu/Tin-news-app/blob/master/gifs/savedNews.gif?style=centerme)
 
 ### SavedNewsDetails Fragment
 ![](https://github.com/helibu/Tin-news-app/blob/master/gifs/savedNewsDetails.gif)
