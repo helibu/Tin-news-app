@@ -8,25 +8,24 @@ MVP structured Tinder-like news-app. Newsapi is used as source of news. Room is 
 ## Some features
 
 ### Three Container Fragment
-<p align="center">
-  <img src="https://github.com/helibu/Tin-news-app/blob/master/gifs/threeContainerFragment.gif">
-</p>
+<p align="center"><img src="https://github.com/helibu/Tin-news-app/blob/master/gifs/threeContainerFragment.gif"></p>
 
 ### TinGallery Fragment
-![](https://github.com/helibu/Tin-news-app/blob/master/gifs/tinGallery.gif)
+<p align="center"><img src="https://github.com/helibu/Tin-news-app/blob/master/gifs/tinGallery.gif"></p>
 
 ### SavedNews Fragment
 Recycler View is used.
 
-![](https://github.com/helibu/Tin-news-app/blob/master/gifs/savedNews.gif)
+<p align="center"><img src="https://github.com/helibu/Tin-news-app/blob/master/gifs/savedNews.gif"></p>
 
 ### SavedNewsDetails Fragment
-![](https://github.com/helibu/Tin-news-app/blob/master/gifs/savedNewsDetails.gif)
+<p align="center"><img src="https://github.com/helibu/Tin-news-app/blob/master/gifs/savedNewsDetails.gif"></p>
 
 ### Webview activity inside the SavedNewsDetails Fragment
-![](https://github.com/helibu/Tin-news-app/blob/master/gifs/webviewActivity.gif)
+<p align="center"><img src="https://github.com/helibu/Tin-news-app/blob/master/gifs/webviewActivity.gif"></p>
+
 
 ### TinProfile Fragment
-![](https://github.com/helibu/Tin-news-app/blob/master/gifs/clearCache.gif)
+<p align="center"><img src="https://github.com/helibu/Tin-news-app/blob/master/gifs/clearCache.gif"></p>
 
-![](https://github.com/helibu/Tin-news-app/blob/master/gifs/languageChange.gif)
+<p align="center"><img src="https://github.com/helibu/Tin-news-app/blob/master/gifs/languageChange.gif"></p>
